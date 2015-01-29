@@ -1,13 +1,10 @@
 = Pivotal Cloud Platform Roadshow Workshop Kit
-Matt Stine <mstine@pivotal.io>
 
 Workshop kit containing content for the Pivotal Cloud Platform Roadshow (http://www.pivotal.io/cloud-platform-roadshow/).
 
 == Workshop Flow
 
-The workshop was originally delivered on the last day of the UberConf show. That day is broken into four 90-minute sessions, with two 15-minute coffee breaks and a lunch break of 1 hour 15 minutes.
-
-The schedule has been altered to fit the PCP Roadshow format, with 75-minute sessions. It also accomodates two keynotes:
+The usual flow is the following:
 
 8:30 - 9:00 AM:: Registration/Breakfast/Coffee
 9:00 - 10:00 AM:: Morning Keynote (_3rd Platform_)
